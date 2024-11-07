@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ListaCompras
-=======
 # Projeto Lista de Compras
 Este projeto é uma aplicação web simples de gerenciamento de itens utilizando as operações CRUD (Criar, Ler, Atualizar e Deletar). Foi construída com React para a criação da interface dinâmica e Redux para o gerenciamento de estado global, permitindo a manipulação de uma lista de itens, como um inventário ou lista de produtos. Os itens podem ser adicionados, editados e removidos conforme necessário.
 
